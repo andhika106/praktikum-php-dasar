@@ -19,14 +19,11 @@ form HTML.
 menampilkannya dalam bentuk tabel.
 ## Tampilan Aplikasi
 **Tampilan Awal Form**
-*(Letakkan screenshot tampilan form kosong di sini)*
-![Tampilan Form](<img width="1090" height="449" alt="image" src="https://github.com/user-attachments/assets/0750564f-a008-4e55-a48a-6fe730269b0f" />
-)
+* <img width="1021" height="441" alt="image" src="https://github.com/user-attachments/assets/4e668b51-2c4d-41ec-bd68-2e878ffce691" />
+
 **Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](<img width="1184" height="557" alt="image" src="https://github.com/user-attachments/assets/7d5c967c-dbbc-43fe-832d-f94100433df5" />
-)
+* <img width="1164" height="560" alt="image" src="https://github.com/user-attachments/assets/1d734fc2-facf-4064-a8c8-c4a2da6ad172" />
+
 **Contoh Pesan Error Validasi**
-*(Letakkan screenshot tampilan saat ada error validasi di sini)*
-![Tampilan Error](<img width="1307" height="591" alt="image" src="https://github.com/user-attachments/assets/d46130ca-6823-4e41-9838-084bdad84d3c" />
-)
+* ![Uploading image.png…]()
+
